@@ -1,4 +1,4 @@
-RESUME_IN=Resume_Luigi_Mantellini_EN.tex
+RESUME_IN=Resume_Luigi_Mantellini_EN.tex Luigi_Mantellini.png
 RESUME_OUT=Resume_Luigi_Mantellini_EN.pdf
 
 all: resume
