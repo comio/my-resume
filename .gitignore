@@ -4,3 +4,8 @@
 *.fls
 *.log
 *.out
+*.toc
+*.temp
+*.tmp
+.*
+~*
